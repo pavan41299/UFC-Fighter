@@ -13,3 +13,7 @@ seaborn>=0.12.0
 tensorflow>=2.11.0
 uuid 
 (built-in in Python, no need to install separately)
+
+
+Video implementation link :
+https://drive.google.com/file/d/1f_IEbDTOf57xONtjY-5MFHNuZLRW_J9L/view?usp=sharing
