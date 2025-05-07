@@ -24,3 +24,6 @@ File Structure:
 1. pro.py : We are using it to find the round-wise iterations about the fighter and its analytics
 2. main.py : Here we are running all the models to perform the train, test and others.
 3. scrapper.py: We are using this to scrape the information from the website
+4. smal_store: trained weights of the data
+5. csv files are the data used
+
